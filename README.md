@@ -25,7 +25,7 @@ Verify each file against the SHA-256 values below before you run it.
 <!-- SHA256:START -->
 | File | SHA-256 |
 | --- | --- |
-| lightning-pay-wallet-windows-v1.2.1.exe | 929ed384b4946a791500da702b656885a7e05b68aa94b8bf85cf9f21443200c1 |
+| lightning-pay-wallet-windows-v1.2.1.exe | 720eb22eda64e4769aeaad449f3fe85f52bd7fec94dfe71c52734b045645344f |
 | lightning-pay-wallet-macos-v1.2.1.dmg | dda50fe7f43a9eaecb37a99662b938fa06b8e1ad0ed82cee9a59f0cedf555f75 |
 | lightning-pay-wallet-linux-v1.2.1.zip | 4fd9ef8451e33c1716513cc5569fe3b43d7ec1b7163986faa458351613fa52ab |
 <!-- SHA256:END -->
